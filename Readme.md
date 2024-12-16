@@ -1,5 +1,6 @@
 ### Netflix Clone
-A simple clone inspired by Netflix, where users interact with a simulated Netflix interface. The project demonstrates basic game mechanics and interactive elements.
+A simple clone inspired by Netflix, where users interact with a simulated Netflix interface. The project demonstrates basic app mechanics and interactive elements.
+This clone is developed to demonstrate my javascript skills 
 
 - **Features:**
   - Simulated Netflix browsing experience.
