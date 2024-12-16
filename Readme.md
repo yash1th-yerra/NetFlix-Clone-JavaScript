@@ -1,4 +1,4 @@
-### 4. Netflix Clone
+### Netflix Clone
 A simple clone inspired by Netflix, where users interact with a simulated Netflix interface. The project demonstrates basic game mechanics and interactive elements.
 
 - **Features:**
